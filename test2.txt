@@ -1,1 +1,3 @@
 reg health sc2010
+
+reg distress nca
